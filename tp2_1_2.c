@@ -6,6 +6,7 @@ int main(){
     
     int i;
     double vt[N];
+    double *puntero;
     srand(time(NULL));
     
     for(i = 0;i<N; i++){
